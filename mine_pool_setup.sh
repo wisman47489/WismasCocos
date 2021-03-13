@@ -1,0 +1,1 @@
+./cpuminer -a X11 -o stratum+tcp://costaricadigitalcoin.com:3008 -u 1AtVUqYVSfqstbVXtVMFWNf4wrJ1J7XKUC -p anything
